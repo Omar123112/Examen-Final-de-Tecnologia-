@@ -4,7 +4,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Tecnologia de la Informacion</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger" href="#services">Servicios</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
@@ -35,9 +35,9 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Studio!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+          <div class="intro-lead-in">Bienvenidos a lo mas tecnologico!</div>
+          <div class="intro-heading text-uppercase">Es interesante hablar contigo</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Habla con nosotros</a>
         </div>
       </div>
     </header>
@@ -47,8 +47,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Servicios</h2>
+            <h3 class="section-subheading text-muted">Estos son la gama de servicios que ofrecemos</h3>
           </div>
         </div>
         <div class="row text-center">
